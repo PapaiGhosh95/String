@@ -10,7 +10,7 @@ The expected output will print, ",olleH I ma !lidaA".
 
 
 
-
+#include<ctype.h>
 void reverseEachWord(char str[]) {
     // Write your code here
      int i=0;
